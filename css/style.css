@@ -1,0 +1,54 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+}
+
+body {
+    background-color: #EDECE9;
+}
+
+img {
+    width: 100%;
+}
+
+nav{
+    margin: 0;
+}
+
+h1 {
+    color: #775548;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: #775548;
+    color: #E1D4CF;
+}
+
+h2 span {
+    color: #D8B03B;
+}
+
+.negrita {
+    color: #775548;
+    font-weight: bold;
+}
+
+.linkNav{
+    font-size: 24px;
+}
+
+.link {
+    color: #EF6D24;
+    font-weight: bold;
+}
+
+.laNacion {
+    color: #3DABC4 ;
+    font-weight: bold;
+}
+
+.pagina12 {
+    color: #EF4B51;
+    font-weight: bold;
+}
